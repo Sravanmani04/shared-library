@@ -1,5 +1,5 @@
 def name(name){
-    println 'Name is'+name
+    println 'Name is' +name
 }
 
 def namei(peer){
